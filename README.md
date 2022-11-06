@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Hosted link of exam project: https://kunmi-a.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
